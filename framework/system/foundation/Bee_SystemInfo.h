@@ -53,6 +53,7 @@
 + (NSString *)OSVersion;
 + (NSString *)appVersion;
 + (NSString *)appIdentifier;
++ (NSString *)appDisplayName;
 + (NSString *)deviceModel;
 + (NSString *)deviceUUID;
 
